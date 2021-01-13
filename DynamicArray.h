@@ -2,6 +2,7 @@
 #ifndef _H_DYNAMICARRAY_43B5
 #define _H_DYNAMICARRAY_43B5
 
+
 /// @brief Динамический массив
 struct DynamicArray
 {
